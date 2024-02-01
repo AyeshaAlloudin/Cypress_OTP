@@ -1,0 +1,8 @@
+{
+    "location" : "10Pearls Karachi",
+    "room" : "3",
+    "comments" : "Automation testing purpose",
+   "req_url" : "https://api.testmail.app/api/json?apikey=440885b3-94ec-400f-9276-b3577421ba27&namespace=9t49k&livequery=true&pretty=true&tag=xyz",
+   "reason" : "Test reason",
+   "file_comment":"Upload sample file"
+}
